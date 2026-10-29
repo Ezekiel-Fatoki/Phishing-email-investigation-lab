@@ -1,4 +1,4 @@
-# Phishing-email-investion-lab
+# Phishing-email-investigation-lab
 ![Email header analysis](pish.png)
 ![Phishing email](phish1.png)
 ![Domain check](pishdomain.png)
