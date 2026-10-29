@@ -1,6 +1,11 @@
-# Phishing-email-investigation-lab
-![Email header analysis(phish.png)
+# Phishing-email-investion-lab
+![Email header analysis](pish.png)
 ![Phishing email](phish1.png)
 ![Domain check](pishdomain.png)
-![Details](phishdetail.png)
-![Key](phish%20key.png)
+![Details](pishdetail.png)
+![Key](pish%20key.png)
+![image 1a](pish1a.png)
+![image 2](pish2.png)
+![image 3](pish3.png)
+![image 4](pish4.png)
+![image 5](pish5.png)
